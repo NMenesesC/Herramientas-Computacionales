@@ -35,8 +35,8 @@ GPS kernel: 1.6.10
  Nav. mode = car
  WAAS use enabled
  Masks = Elevation & CNR
- Elevation mask = 7°
- CNR mask = 35°
+ Elevation mask = 7
+ CNR mask = 35
  DOP Masks = Disabled
  PDOP = 30.0 HDOP = 30.0 GDOP = 30.0
 Bluetooth 0x0000002F/0x0000F000
